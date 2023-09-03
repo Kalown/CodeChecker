@@ -6,7 +6,9 @@ How it works?
 hmmm........
 
 git clone https://github.com/Kalown/CodeChecker
-\ncd CodeChecker 
-\npython3 CCv1.py
+
+cd CodeChecker 
+
+python3 CCv1.py
 
 Simple as that!
