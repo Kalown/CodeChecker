@@ -1,4 +1,5 @@
-#CodeChecker
+# CodeChecker
+
 It is  simple code to check the code-snippets of the repo that you download from GitHub, so you can save yourself from any kind of back-doors.
 
 How it works?
